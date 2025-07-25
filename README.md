@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Abinaya Priya
+🎓 Aspiring Data Scientist | Python Developer | AI & ML Enthusiast
 
-<!--
-**Abinaya-priya-07/Abinaya-priya-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on:
+- 🤖 AI-Powered Medicine Recommendation System
+- 🧠 Deep Q-Learning based Robot Game
 
-Here are some ideas to get you started:
+🌱 I’m currently learning:
+- Data Science with Python
+- NLP and Generative AI
+- MLOps and Cloud Deployment (AWS/GCP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+- ✉️ abinayapriya406@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/abinaya-priya)
+
+💡 Fun Fact: I enjoy solving real-world problems using AI and building smart tools!
+
+
